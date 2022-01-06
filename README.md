@@ -1,4 +1,4 @@
-# project-1
+# FizzBuzz
 
 This program allows user to play a game called "FizzBuzz"
 
