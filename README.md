@@ -9,5 +9,5 @@ Fizzbuzz is a fun game played generally by school children. It is simple game in
 3. If number is divisible by those integers (i.e. divisible by both 3 and 5), then you need to say FizzBuzz
 4. Else you just need to say the next integer
 
-The key takeaway from this short project is the application of for-loops and while-loops in Java. Many of the outputs are printed in tabular format to enhance user experience.
+The key takeaway from this short project is the application of for-loops and while-loops in Java, as well as reading and storing user input. Many of the outputs are printed in tabular format to enhance user experience.
 
