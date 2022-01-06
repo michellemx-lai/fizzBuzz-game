@@ -1,6 +1,6 @@
 # FizzBuzz
 
-This program allows user to play a game called "FizzBuzz"
+This program allows user to play an interactive game called "FizzBuzz"
 
 Fizzbuzz is a fun game played generally by school children. It is simple game in which when your turn comes, you need to say the next number. Here are rules of the game:
 
